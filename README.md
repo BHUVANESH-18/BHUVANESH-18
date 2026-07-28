@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bhuvanesh 👋
+# Hi, I'm Bhuvanesh 
 
 ### B.Tech Computer Engineering (Cyber Security) student @ Karunya Institute of Technology and Sciences
 
