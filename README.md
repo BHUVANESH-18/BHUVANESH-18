@@ -37,19 +37,12 @@
 **Security Tools**
 <br/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Shodan-000000?style=for-the-badge&logo=shodan&logoColor=red" />
-<img src="https://img.shields.io/badge/Amass-2F2F2F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Subfinder-2F2F2F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/theHarvester-2F2F2F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WhatWeb-2F2F2F?style=for-the-badge" />
 
 **Web & Blockchain**
 <br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 
 **Tools & Platforms**
